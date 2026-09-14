@@ -1,5 +1,5 @@
-div{
-    background-color: rgb(171, 171, 238);
+.panel{
     height: 100px;
-    width: 100px;
-        }
+    width:100px;
+    background-color: rgb(245, 138, 156)
+}
